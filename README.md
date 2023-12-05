@@ -18,4 +18,5 @@ Output: [1,2]
 Input: nums = [3,3], target = 6
 Output: [0,1]
 
-
+```
+You can see this test in: https://leetcode.com/problems/two-sum/description/?envType=featured-list&envId=top-microsoft-questions?envType=featured-list&envId=top-microsoft-questions
